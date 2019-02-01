@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import axios from "axios";
 import * as D3 from "d3";
 
+import { suscriber } from "../utils/suscriber";
 import { Indicator } from "./Indicator";
 import { Bubble } from "./Bubble";
 
